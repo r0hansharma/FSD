@@ -1,0 +1,18 @@
+/* import json   
+
+f = open('degree.json',)                  # Opening JSON file
+data = json.load(f)                       # Loading the file as dictionary
+{
+  "degree" :  [
+    { "title" : "M.Tech", "branch" : "CS AI & ML" },
+    { "title" : "M.Tech", "branch" : "AI" },
+    { "title" : "M.Tech", "branch" : "CSN" },
+    { "title" : "M.Tech", "branch" : "WNA" },
+    { "title" : "M.Tech", "branch" : "VLSI" }
+  ]
+}
+
+
+for deg in data['degree']:                # Looping through the values
+    print(deg['title'], deg['branch'])
+f.close()                                 # Closing file
