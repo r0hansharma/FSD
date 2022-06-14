@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"wh",
+				"floralwhite"
+			],
+			[
+				"g",
+				"greenyellow"
+			],
+			[
+				"re",
+				"darkred"
+			],
+			[
+				"gr",
+				"seagreen"
+			],
+			[
+				"text",
+				"text-decoration-color"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"grid-",
+				"grid-template-rows"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"whi",
+				"whitesmoke"
+			],
+			[
+				"li",
+				"lightseagreen"
+			],
+			[
+				"gre",
+				"darkgrey"
+			],
+			[
+				"sage",
+				"slategray"
+			],
+			[
+				"aua",
+				"aquamarine"
+			],
+			[
+				"c",
+				"blanchedalmond"
+			],
+			[
+				"sk",
+				"lightskyblue"
+			],
+			[
+				"Blu",
+				"blueviolet"
+			],
+			[
+				"gree",
+				"springgreen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/MTECH/S1/python/week3/06_04_prime.py",
+		"/D/MTECH/S1/python/week3/06_05_even.py",
+		"/D/MTECH/S1/python/week4/09_03_deep_flatten.py",
+		"/D/MTECH/S1/python/week4/01_02_uniques.py",
+		"/D/MTECH/S1/python/week3/03.02.DaysOfThe Week.py",
+		"/D/MTECH/S1/python/week3/06.02.half_diamond.py",
+		"/D/MTECH/S1/python/week3/10_01_pig_latin.py",
+		"/D/MTECH/S2/FUll_Stack_Dev/wordle.html",
+		"/D/MTECH/S2/FUll_Stack_Dev/TTT.html",
+		"/D/MTECH/S1/python/week2/07.03.revOneLiner.py",
+		"/D/MTECH/S2/FUll_Stack_Dev/TicTacToe.html",
+		"/D/MTECH/S2/FUll_Stack_Dev/my_profile_CSN21010.html",
+		"/D/MTECH/S2/FUll_Stack_Dev/index.html",
+		"/D/MTECH/S2/FUll_Stack_Dev/style.css",
+		"/D/MTECH/S2/FUll_Stack_Dev/Tic_Tac_Toe.html",
+		"/D/MTECH/S2/FUll_Stack_Dev/main.js",
+		"/C/Users/DELL/AppData/Roaming/jupyter/runtime/jpserver-856-open.html",
+		"/D/MTECH/S2/FUll_Stack_Dev/my_profile.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
